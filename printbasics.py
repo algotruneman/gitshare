@@ -21,7 +21,8 @@ ____________
 |"""""""""""|=======0
 |____________\____
 |==+==============|
-|__________________\\  ## Note the double slash. First 'escapes' so other prints.
+|__________________\\  
 |(@)(@)(@)(@)(@)(@)/
  *****************
   '''
+## Note the double slash in the center tank line. First slash 'escapes' so other prints.
