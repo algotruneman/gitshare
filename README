@@ -1,3 +1,5 @@
 The files in this repository are intended to be part of the 'Mechanical MOOC' gentle introduction to python online course.
 
 I think the intent is to make it possible to share our code in the same way that community projects share it...via git.
+
+Mechanical MOOC clarified things in a later (but still before the course starts) email. It looks like we are intended just to use the Gist component of GitHub for our snippet sharing.
